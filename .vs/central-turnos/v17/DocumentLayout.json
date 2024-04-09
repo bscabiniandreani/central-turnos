@@ -1,14 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\bscabini\\source\\repos\\Curso de Web API\\central-turnos\\",
+  "WorkspaceRootPath": "C:\\Users\\bscabini\\source\\repos\\central-turnos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2D5FA960-BC5D-4C45-8439-D1217E73B3BB}|central-turnos.csproj|c:\\users\\bscabini\\source\\repos\\curso de web api\\central-turnos\\models\\turno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2D5FA960-BC5D-4C45-8439-D1217E73B3BB}|central-turnos.csproj|solutionrelative:models\\turno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9B6B8B34-8286-42E7-B8FB-48DC342D771D}|central-turnos\\central-turnos.csproj|c:\\users\\bscabini\\source\\repos\\central-turnos\\central-turnos\\helper\\primeraletramayusculaattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B6B8B34-8286-42E7-B8FB-48DC342D771D}|central-turnos\\central-turnos.csproj|solutionrelative:central-turnos\\helper\\primeraletramayusculaattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2D5FA960-BC5D-4C45-8439-D1217E73B3BB}|central-turnos.csproj|c:\\users\\bscabini\\source\\repos\\curso de web api\\central-turnos\\models\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2D5FA960-BC5D-4C45-8439-D1217E73B3BB}|central-turnos.csproj|solutionrelative:models\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9B6B8B34-8286-42E7-B8FB-48DC342D771D}|central-turnos\\central-turnos.csproj|c:\\users\\bscabini\\source\\repos\\central-turnos\\central-turnos\\helper\\mayorceroatributte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B6B8B34-8286-42E7-B8FB-48DC342D771D}|central-turnos\\central-turnos.csproj|solutionrelative:central-turnos\\helper\\mayorceroatributte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,28 +23,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Turno.cs",
-              "DocumentMoniker": "C:\\Users\\bscabini\\source\\repos\\Curso de Web API\\central-turnos\\Models\\Turno.cs",
-              "RelativeDocumentMoniker": "Models\\Turno.cs",
-              "ToolTip": "C:\\Users\\bscabini\\source\\repos\\Curso de Web API\\central-turnos\\Models\\Turno.cs",
-              "RelativeToolTip": "Models\\Turno.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Title": "PrimeraLetraMayusculaAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\bscabini\\source\\repos\\central-turnos\\central-turnos\\Helper\\PrimeraLetraMayusculaAttribute.cs",
+              "RelativeDocumentMoniker": "central-turnos\\Helper\\PrimeraLetraMayusculaAttribute.cs",
+              "ToolTip": "C:\\Users\\bscabini\\source\\repos\\central-turnos\\central-turnos\\Helper\\PrimeraLetraMayusculaAttribute.cs",
+              "RelativeToolTip": "central-turnos\\Helper\\PrimeraLetraMayusculaAttribute.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-22T13:57:33.774Z",
+              "WhenOpened": "2024-04-09T15:59:06.303Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Paciente.cs",
-              "DocumentMoniker": "C:\\Users\\bscabini\\source\\repos\\Curso de Web API\\central-turnos\\Models\\Paciente.cs",
-              "RelativeDocumentMoniker": "Models\\Paciente.cs",
-              "ToolTip": "C:\\Users\\bscabini\\source\\repos\\Curso de Web API\\central-turnos\\Models\\Paciente.cs",
-              "RelativeToolTip": "Models\\Paciente.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Title": "MayorCeroAtributte.cs",
+              "DocumentMoniker": "C:\\Users\\bscabini\\source\\repos\\central-turnos\\central-turnos\\Helper\\MayorCeroAtributte.cs",
+              "RelativeDocumentMoniker": "central-turnos\\Helper\\MayorCeroAtributte.cs",
+              "ToolTip": "C:\\Users\\bscabini\\source\\repos\\central-turnos\\central-turnos\\Helper\\MayorCeroAtributte.cs",
+              "RelativeToolTip": "central-turnos\\Helper\\MayorCeroAtributte.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-22T13:55:29.672Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-09T15:52:52.048Z"
             }
           ]
         }
